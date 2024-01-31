@@ -1,12 +1,6 @@
-- 👋 Hi, I’m Yeongu Choe
-- 👀 I’m interested in Java, JavaScript.
-- 🌱 I’m currently learning Spring, Node and React.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-YeonguChoe/YeonguChoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, my name is Yeongu Choe.
+- 🌐 I am a full-stack web developer.
+- 🎓 I hold a Bachelor of Science in Computer Science from the University of British Columbia (2024).
+- 💻 I am proficient in **C#**, **C++**, **JavaScript**, and **Python**.
+- ⚛️ I use **React.js** and **React Native** for frontend development.
+- 🔍 I use **.NET** and **node.js** for backend development.
