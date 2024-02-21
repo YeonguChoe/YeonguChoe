@@ -3,4 +3,4 @@
 - 🎓 I hold a Bachelor of Science in Computer Science from the University of British Columbia (2024).
 - 💻 I am proficient in **C++**, **Java**, **JavaScript**, and **Python**.
 - ⚛️ I use **React.js** and **React Native** for frontend development.
-- 🔍 I use **Spring** and **Node.js** for backend development.
+- 🔍 I use **Node.js** for backend development.
