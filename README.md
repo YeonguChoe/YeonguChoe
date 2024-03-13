@@ -2,5 +2,5 @@
 - 🌐 I am a backend web developer.
 - 🎓 I hold a Bachelor of Science in Computer Science from the University of British Columbia (2024).
 - 💻 I am proficient in **Java**, **JavaScript**, and **Python**.
-- 🔍 I use **Node.js** and **Spring Boot** for backend development.
+- 🔍 I use **node.js** and **Spring Boot** for backend development.
 - ⚛️ I use **React** and **React Native** for frontend development.
