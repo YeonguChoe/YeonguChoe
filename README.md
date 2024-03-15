@@ -1,6 +1,6 @@
 - 👋 Hello, my name is **Yeongu Choe**.
 - 🌐 I am a backend web developer.
 - 🎓 I hold a Bachelor of Science in Computer Science from the University of British Columbia (2024).
-- 💻 I am proficient in **Java**, **JavaScript**, and **Python**.
-- 🔍 I use **node.js** and **Spring Boot** for backend development.
-- ⚛️ I use **React** and **React Native** for frontend development.
+- 💻 I am proficient in **Java**, **C#** and **JavaScript**.
+- 🔍 I use **Spring Boot** and **ASP.NET Core** for backend development.
+- ⚛️ I use **React** and **Android** for frontend development.
