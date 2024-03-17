@@ -1,6 +1,6 @@
 - 👋 Hello, my name is **Yeongu Choe**.
 - 🌐 I am a web developer who is looking for a job.
-- 🎓 I hold a Bachelor of Science in Computer Science from the University of British Columbia (2024).
+- 🎓 I hold a Bachelor of Science in Computer Science from the University of British Columbia (May 2024).
 - 💻 I am proficient in **Java** and **JavaScript**.
 - 🔍 I use **Spring Boot** and **node.js** for backend development.
 - ⚛️ I use **React** for frontend development.
