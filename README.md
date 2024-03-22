@@ -1,5 +1,5 @@
 - 👋 Hello, my name is **Yeongu Choe**.
 - 🌐 I am a web backend developer.
 - 🎓 I hold a Bachelor of Science in Computer Science from the University of British Columbia (May 2024).
-- 💻 My favorite programming languages are **Java** and **C#**.
-- 🔍 I am seeking for backend developer job.
+- 💻 My favorite programming languages are **Java** and **JavaScript**.
+- 🔍 I am seeking for software engineer position.
