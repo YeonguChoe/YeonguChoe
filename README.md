@@ -1,5 +1,4 @@
 - 👋 Hello, my name is **Yeongu Choe**.
-- 🌐 Software engineer.
+- 🌐 Backend Software engineer.
 - 🎓 I hold a Bachelor of Science in Computer Science from the University of British Columbia (May 2024).
 - 💻 My favorite programming languages are **Java**, **Kotlin** and **C++**.
-- 🔍 I am seeking for software engineer position.
