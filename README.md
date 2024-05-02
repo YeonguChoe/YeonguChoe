@@ -1,4 +1,4 @@
 - 👋 Hello, my name is **Yeongu Choe**.
     - 🎓 Education: BSc in Computer Science from the UBC Vancouver Campus
-    - 💻 Framework: Spring Boot, node.js, React, Angular
-    - 🌐 Language: Java, JavaScript, TypeScript
+    - 💻 Framework: node.js, React, Angular
+    - 🌐 Language: JavaScript, TypeScript, Python
