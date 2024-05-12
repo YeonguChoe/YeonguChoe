@@ -1,4 +1,4 @@
 - 👋 Hello, my name is **Yeongu Choe**.
-    - 🗃️ Framework: Spring Boot, Android, React, Angular
+    - 🗃️ Framework: Android, node.js, React
     - 🧩 Language: Java, Kotlin, TypeScript, JavaScript
     - 🧮 Algorithm: Python
