@@ -1,4 +1,4 @@
 # My tech stack
-- 🗃️ Framework: Android, Node.js, React, Angular
+- 🗃️ Framework: Android, React, Angular, Node.js
 - 🧩 Language: Kotlin, Java, TypeScript, JavaScript
 - 🧮 Algorithm: Python
