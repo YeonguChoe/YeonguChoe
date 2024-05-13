@@ -1,4 +1,4 @@
-- 👋 Hello, my name is **Yeongu Choe**.
-    - 🗃️ Framework: Android, node.js, React
-    - 🧩 Language: Java, Kotlin, TypeScript, JavaScript
+- My tech stack
+    - 🗃️ Framework: Android, Node.js, React, Angular
+    - 🧩 Language: Kotlin, Java, TypeScript, JavaScript
     - 🧮 Algorithm: Python
