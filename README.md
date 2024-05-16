@@ -1,4 +1,7 @@
+# Welcome to my repository
+- I can be reached by my email: yeongu.choe@icloud.com
+
 # My tech stack
-- 🗃️ Framework: Android, React, Node.js
+- 🗃️ Framework: Node.js, React, Android
 - 🧩 Language: Kotlin, Java, TypeScript, JavaScript
 - 🧮 Algorithm: Python
