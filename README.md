@@ -2,6 +2,6 @@
 - I can be reached by my email: yeongu.choe@icloud.com
 
 # My tech stack
-- 🗃️ Framework: Node.js, React, Android
-- 🧩 Language: Kotlin, Java, TypeScript, JavaScript
+- 🗃️ Framework: Node.js, React, Angular
+- 🧩 Language: TypeScript, JavaScript, Python
 - 🧮 Algorithm: Python
