@@ -3,5 +3,4 @@
 
 # My tech stack
 - 🗃️ Framework: Node.js, React
-- 🧩 Language: TypeScript, JavaScript, Python
-- 🧮 Algorithm: Python
+- 🧩 Language: TypeScript, JavaScript
