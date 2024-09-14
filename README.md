@@ -1,5 +1,5 @@
 # Only concepts to remember for Algorithm
-- Binary Search
+- [Binary search](https://github.com/YeonguChoe/Binary-search)
 - BFS
 - DFS
 - Backtracking
