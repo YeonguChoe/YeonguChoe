@@ -8,4 +8,4 @@
 
 # Data Structure
 - [Java](https://github.com/YeonguChoe/JAVA-Technology/tree/main/DSA/Built-in%20Data%20structure)
-- [C++](https://github.com/YeonguChoe/CPP-Note/tree/main/DSA/Built-in%20Data%20structure)
+- [CPP](https://github.com/YeonguChoe/CPP-Note/tree/main/DSA/Built-in%20Data%20structure)
