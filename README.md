@@ -1,4 +1,5 @@
 # Only concepts to remember for Algorithm
+> If the problem does not need data structure, use C. otherwise, C++.
 - [Binary search](https://github.com/YeonguChoe/Binary-search)
 - [BFS](https://github.com/YeonguChoe/BFS)
 - [DFS](https://github.com/YeonguChoe/DFS)
