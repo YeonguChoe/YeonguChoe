@@ -4,7 +4,7 @@
 - [DFS](https://github.com/YeonguChoe/DFS)
 - [Backtracking](https://github.com/YeonguChoe/Backtracking)
 - [Union-Find](https://github.com/YeonguChoe/Union-Find) + [Topological sort](https://github.com/YeonguChoe/Topological-sort)
-- Dynamic Programming: Problems that can only be solved with dynamic programming.
+- [Dynamic Programming](https://github.com/YeonguChoe/Dynamic-Programming): Problems that can only be solved with dynamic programming.
 
 
 # Data Structure
