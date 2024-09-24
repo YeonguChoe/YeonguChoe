@@ -5,8 +5,8 @@
 - [Backtracking](https://github.com/YeonguChoe/Backtracking)
 - [Union-Find](https://github.com/YeonguChoe/Union-Find) + [Topological sort](https://github.com/YeonguChoe/Topological-sort)
 - [Dynamic Programming](https://github.com/YeonguChoe/Dynamic-Programming)
-  - Recursion -> Top Down Dynamic Programming
-  - Bottom Up Dynamic Programming
+  - Decision Tree Required: Recursion -> Top Down Dynamic Programming
+  - No Decision Tree Required: Bottom Up Dynamic Programming
 
 
 # Data Structure
