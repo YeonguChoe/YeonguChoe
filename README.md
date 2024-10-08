@@ -1,19 +1,6 @@
-# Only concepts to remember for Algorithm
-- [Binary search](https://github.com/YeonguChoe/Binary-search)
-- [BFS](https://github.com/YeonguChoe/BFS): Only Iterataive Exist, BFS requires Queue data structure, so need to use C++.
-- [DFS](https://github.com/YeonguChoe/DFS)
-- [Backtracking](https://github.com/YeonguChoe/Backtracking)
-- [Union-Find](https://github.com/YeonguChoe/Union-Find) + [Topological sort](https://github.com/YeonguChoe/Topological-sort)
-- [Dynamic Programming](https://github.com/YeonguChoe/Dynamic-Programming)
-  - Decision Tree Required: Recursion -> Top Down Dynamic Programming
-  - No Decision Tree Required: Bottom Up Dynamic Programming
+# Yeongu Choe
 
-
-# Data Structure
-- [CPP Java Conversion Guide](https://github.com/YeonguChoe/CPP-Java-Conversion-Guide/blob/main/CPP%20Java%20Conversion%20Guide.pdf)
-- [Java](https://github.com/YeonguChoe/JAVA-Technology/tree/main/DSA/Built-in%20Data%20structure)
-- [CPP](https://github.com/YeonguChoe/CPP-Note/tree/main/DSA/Built-in%20Data%20structure)
-
-# Practice
-- [Daily Dose of Algorithm](https://github.com/YeonguChoe/Daily-Dose-of-Algorithm)
-- [Blind 75](https://github.com/YeonguChoe/Blind75)
+## Checkout my website at
+<a href='https://www.yeonguchoe.com/'>
+    <img src='website.png' alt='YeonguChoe.com'>
+</a>
